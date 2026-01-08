@@ -95,7 +95,7 @@ print("Total Payroll:", total)
 
 
 
-
+# two sum problem // not inheritance
 
 def twoSum(nums, target):
     seen = {}  # stores number : index
